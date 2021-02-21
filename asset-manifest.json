@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Pomodoro/static/css/main.ba4f8de0.chunk.css",
-    "main.js": "/Pomodoro/static/js/main.d3b8b6e1.chunk.js",
-    "main.js.map": "/Pomodoro/static/js/main.d3b8b6e1.chunk.js.map",
+    "main.js": "/Pomodoro/static/js/main.ccf43045.chunk.js",
+    "main.js.map": "/Pomodoro/static/js/main.ccf43045.chunk.js.map",
     "runtime-main.js": "/Pomodoro/static/js/runtime-main.57b11735.js",
     "runtime-main.js.map": "/Pomodoro/static/js/runtime-main.57b11735.js.map",
     "static/js/2.fbc92464.chunk.js": "/Pomodoro/static/js/2.fbc92464.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.57b11735.js",
     "static/js/2.fbc92464.chunk.js",
     "static/css/main.ba4f8de0.chunk.css",
-    "static/js/main.d3b8b6e1.chunk.js"
+    "static/js/main.ccf43045.chunk.js"
   ]
 }
