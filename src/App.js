@@ -32,7 +32,7 @@ class TimerLengthControl extends React.Component {
           onClick={this.props.onClick}
           value="-"
         >
-          &#10506;
+          &#10507;
         </button>
         <div className="" id={this.props.lengthID}>
           {this.props.length}
@@ -43,7 +43,7 @@ class TimerLengthControl extends React.Component {
           onClick={this.props.onClick}
           value="+"
         >
-          &#10507;
+          &#10506;
         </button>
         </div>
       </div>
